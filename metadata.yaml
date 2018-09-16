@@ -1,0 +1,25 @@
+_repo: The-Wyandotte-Convention-an-address_51742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, John Alexander
+    birthdate: 1839
+    deathdate: 1889
+    gutenberg_agent_id: '46487'
+    url: http://www.gutenberg.org/2009/agents/46487
+description: ''
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- Politics and government -- 1854-1861'
+- !lcsh 'Kansas Territory. Constitutional Convention (1859)'
+- !lcc 'F590.3'
+- GITenberg
+title: 'The Wyandotte Convention: an address'
+url: http://www.gutenberg.org/ebooks/51742
